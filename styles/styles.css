@@ -1,0 +1,92 @@
+
+.backg{
+    font-size: 8 px;
+}
+
+.container{
+    padding-left: 10%;
+    width: 500px;
+    height: 281px;
+}
+.container1{
+    padding-left: 30%;
+    width: 500px;
+    height: 281px;
+}
+.menu{
+    font-size: 40px;
+    color: black;
+    font-style: italic;
+    font-weight: normal;
+
+}
+.backg{
+    font-size: 8 px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(6, 4, 1);
+    background-color: rgb(222, 222, 68);
+    
+}
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {color: rgba(24, 3, 88, 0.508);
+    text-decoration: none;
+    
+
+}
+a:hover{
+    text-decoration: underline;
+     font-weight: bold;
+    font-size: 20px; 
+}
+a:visited{
+    color: rgb(21, 4, 91);
+    font-size: 40px;
+}
+.left{
+    padding-left: 30%;
+}
+.resumeListHeading{
+    font-weight: bold;
+    font-style: normal;
+}
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+
+.homebg{
+    background-image: url('../images/Saints_Logo.png');
+    background-position: top left;
+    background-size: cover;
+    background-color: rgb(126, 198, 246);   
+}
+.box1{
+    border-width: 1px;
+    border-style: solid ;
+    border-color: grey;
+
+    /* border: 1px solid red; */
+}
+
+.box2{
+    padding: 5px;
+}
+/* This is the padding around the contents of the box */
+.box3{
+    margin: 50px;
+}
+/* This is the margin outside of the box between elements also inside of the box too. */
+h2{
+    padding-left: 10px;
+    text-decoration: underline;
+}
+p{
+    padding-left: 20px;
+}
